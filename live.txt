@@ -1,0 +1,311 @@
+海南移动,#genre#
+4K UHD,http://39.134.136.132:6610/200000001898/460000089800010006/1.m3u8?
+CCTV-1 FHD,http://39.134.136.132:6610/200000001898/460000089800010011/1.m3u8?
+CCTV-1 FHD,http://39.134.136.132:6610/200000001898/460000089800010045/1.m3u8?
+CCTV-1 FHD,http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?
+CCTV-2 FHD,http://39.134.136.132:6610/200000001898/460000089800010050/1.m3u8?
+CCTV-3 FHD,http://39.134.136.132:6610/200000001898/460000089800010138/1.m3u8?
+CCTV-4 FHD,http://39.134.136.132:6610/200000001898/460000089800010017/1.m3u8?
+CCTV-5 FHD,http://39.134.136.132:6610/200000001898/460000089800010127/1.m3u8?
+CCTV-5 FHD,http://39.134.136.132:6610/200000001898/460000089800010139/1.m3u8?
+CCTV-5 FHD,http://39.134.136.132:6610/200000001898/460000089800010145/1.m3u8?
+CCTV-5+ FHD,http://39.134.136.132:6610/200000001898/460000089800010044/1.m3u8?
+CCTV-6 FHD,http://39.134.136.132:6610/200000001898/460000089800010140/1.m3u8?
+CCTV-7 FHD,http://39.134.136.132:6610/200000001898/460000089800010051/1.m3u8?
+CCTV-8 FHD,http://39.134.136.132:6610/200000001898/460000089800010141/1.m3u8?
+CCTV-9 FHD,http://39.134.136.132:6610/200000001898/460000089800010052/1.m3u8?
+CCTV-10 FHD,http://39.134.136.132:6610/200000001898/460000089800010046/1.m3u8?
+CCTV-11 FHD,http://39.134.136.132:6610/200000001898/460000089800010092/1.m3u8?
+CCTV-12 FHD,http://39.134.136.132:6610/200000001898/460000089800010047/1.m3u8?
+CCTV-13 FHD,http://39.134.136.132:6610/200000001898/460000089800010093/1.m3u8?
+CCTV-14 FHD,http://39.134.136.132:6610/200000001898/460000089800010048/1.m3u8?
+CCTV-15 FHD,http://39.134.136.132:6610/200000001898/460000089800010094/1.m3u8?
+CCTV-16 FHD,http://39.134.136.132:6610/200000001898/460000089800010142/1.m3u8?
+CCTV-17 FHD,http://39.134.136.132:6610/200000001898/460000089800010049/1.m3u8?
+北京纪实科教FHD,http://39.134.136.132:6610/200000001898/460000089800010042/1.m3u8?
+纪实人文 FHD,http://39.134.136.132:6610/200000001898/460000089800010067/1.m3u8?
+经典影视 FHD,http://39.134.136.132:6610/200000001898/460000089800010121/1.m3u8?
+影视剧场 FHD,http://39.134.136.132:6610/200000001898/460000089800010084/1.m3u8?
+东北热剧 FHD,http://39.134.136.132:6610/200000001898/460000089800010021/1.m3u8?
+中国功夫 FHD,http://39.134.136.132:6610/200000001898/460000089800010087/1.m3u8?
+体育健身 FHD,http://39.134.136.132:6610/200000001898/460000089800010147/1.m3u8?
+军事评论 FHD,http://39.134.136.132:6610/200000001898/460000089800010080/1.m3u8?
+军旅剧场 FHD,http://39.134.136.132:6610/200000001898/460000089800010079/1.m3u8?
+农业致富 FHD,http://39.134.136.132:6610/200000001898/460000089800010085/1.m3u8?
+动作电影FHD,http://39.134.136.132:6610/200000001898/460000089800010003/1.m3u8?
+古装剧场FHD,http://39.134.136.132:6610/200000001898/460000089800010004/1.m3u8?
+家庭剧场 FHD,http://39.134.136.132:6610/200000001898/460000089800010074/1.m3u8?
+怡伴健康 FHD,http://39.134.136.132:6610/200000001898/460000089800010082/1.m3u8?
+惊悚悬疑 FHD,http://39.134.136.132:6610/200000001898/460000089800010077/1.m3u8?
+欢乐剧场FHD,http://39.134.136.132:6610/200000001898/460000089800010025/1.m3u8?
+武搏世界 FHD,http://39.134.136.132:6610/200000001898/460000089800010135/1.m3u8?
+潮妈辣婆FHD,http://39.134.136.132:6610/200000001898/460000089800010005/1.m3u8?
+炫舞未来 FHD,http://39.134.136.132:6610/200000001898/460000089800010039/1.m3u8?
+精品体育 FHD,http://39.134.136.132:6610/200000001898/460000089800010078/1.m3u8?
+精品大剧 FHD,http://39.134.136.132:6610/200000001898/460000089800010072/1.m3u8?
+精品纪录 FHD,http://39.134.136.132:6610/200000001898/460000089800010076/1.m3u8?
+精品萌宠 FHD,http://39.134.136.132:6610/200000001898/460000089800010146/1.m3u8?
+超级体育 FHD,http://39.134.136.132:6610/200000001898/460000089800010063/1.m3u8?
+超级电影 FHD,http://39.134.136.132:6610/200000001898/460000089800010064/1.m3u8?
+超级电视剧 FHD,http://39.134.136.132:6610/200000001898/460000089800010065/1.m3u8?
+超级综艺 FHD,http://39.134.136.132:6610/200000001898/460000089800010062/1.m3u8?
+金牌综艺 FHD,http://39.134.136.132:6610/200000001898/460000089800010086/1.m3u8?
+黑莓动画FHD,http://39.134.136.132:6610/200000001898/460000089800010002/1.m3u8?
+黑莓电影FHD,http://39.134.136.132:6610/200000001898/460000089800010073/1.m3u8?
+黑莓电竞 FHD,http://39.134.136.132:6610/200000001898/460000089800010124/1.m3u8?
+黑莓电竞 FHD,http://39.134.136.132:6610/200000001898/460000089800010126/1.m3u8?
+黑莓电竞FHD,http://39.134.136.132:6610/200000001898/460000089800010120/1.m3u8?
+黑莓电竞FHD,http://39.134.136.132:6610/200000001898/460000089800010125/1.m3u8?
+东南卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010096/1.m3u8?
+东方卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010054/1.m3u8?
+北京卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010043/1.m3u8?
+北京卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010143/1.m3u8?
+天津卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010069/1.m3u8?
+安徽卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010041/1.m3u8?
+山东卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010066/1.m3u8?
+广东卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010055/1.m3u8?
+江苏卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010059/1.m3u8?
+江西卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010060/1.m3u8?
+河北卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010101/1.m3u8?
+浙江卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010070/1.m3u8?
+深圳卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010068/1.m3u8?
+湖北卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010057/1.m3u8?
+湖南卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010058/1.m3u8?
+贵州卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010100/1.m3u8?
+辽宁卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010061/1.m3u8?
+重庆卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010053/1.m3u8?
+黑龙江卫视 FHD,http://39.134.136.132:6610/200000001898/460000089800010056/1.m3u8?
+🎈江西移动,#genre#
+纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
+CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
+CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
+CCTV2[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+CCTV2[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls
+CCTV2[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
+CCTV3[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
+CCTV3[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+CCTV4[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+CCTV5[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+CCTV5+[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
+CCTV5+[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+CCTV6[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+CCTV7[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+CCTV7[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
+CCTV7[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8
+CCTV8[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
+CCTV8[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
+CCTV9[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+CCTV9[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
+CCTV10[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
+CCTV10[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
+CCTV10[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+CCTV11[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+CCTV12[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
+CCTV12[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+CCTV13[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+CCTV14[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
+CCTV14[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
+CCTV14[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+CCTV15[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV16[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+CCTV16[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
+CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
+CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
+CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
+中国教育1台[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
+东南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+东南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
+东方卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
+东方卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
+东方卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
+北京卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
+北京卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
+北京卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+四川卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+天津卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8
+天津卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
+天津卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
+安徽卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
+安徽卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
+山东卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+山东卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
+山东卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
+广东卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+广东卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
+广东卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+广西卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+江苏卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
+江苏卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
+江苏卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
+江西卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+江西卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
+江西卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+河北卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+河南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+浙江卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
+浙江卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
+浙江卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+海南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
+深圳卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
+深圳卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
+深圳卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
+湖北卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
+湖北卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
+湖北卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
+湖南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8
+湖南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+湖南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
+贵州卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+辽宁卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
+辽宁卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls
+辽宁卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
+重庆卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
+重庆卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
+重庆卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
+黑龙江卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
+黑龙江卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
+黑龙江卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
+上海纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+上海纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
+上海纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
+北京纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+北京纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
+快乐垂钓[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
+茶频道[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
+金鹰纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+NewTV东北热剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+NewTV中国功夫[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
+NewTV军事评论[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+NewTV军旅剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
+NewTV农业致富[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
+NewTV古装剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
+NewTV家庭剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+NewTV怡伴健康[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+NewTV明星大片[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
+NewTV欢乐剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+NewTV武搏世界[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
+NewTV海外剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+NewTV潮妈辣婆[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+NewTV炫舞未来[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
+NewTV精品体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+NewTV精品大剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
+NewTV精品纪录[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
+NewTV超级体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
+NewTV超级体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
+NewTV超级体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+NewTV超级电影[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
+NewTV超级电影[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
+NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
+NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8
+NewTV超级综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
+NewTV超级综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
+NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+黑莓动画[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
+黑莓电影[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓电影[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
+黑莓电影[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
+黑莓电竞[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
+黑莓电竞[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8
+黑莓电竞[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
+江西少儿[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+江西教育[1047*576],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
+江西新闻[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+江西经济生活[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
+
+地方,#genre#
+河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+河北农民,http://hbdg.chinashadt.com:1936/live/stream:cctv7.stream/playlist.m3u8?zhebd
+邢台综合频道,http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.m3u8?auth_key=1861891200-0-0-d10ef6800441f798030705f4ab7e3a4b;{User-Agent@0151?zhebd}
+邢台综合频道,http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.flv?auth_key=1861891200-0-0-d86d236a74b9a55f2596a7346ec632a8;{User-Agent@0151?zhebd}
+邢台公共频道,http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.m3u8?auth_key=1861891200-0-0-ac3742e661687f63ac72cd6cb2c784be;{User-Agent@0151?zhebd}
+邢台公共频道,http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.flv?auth_key=1861891200-0-0-82cd69002c4060ddabc0bfa1b3446dc2;{User-Agent@0151?zhebd}
+石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸公共频道,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+邯郸科技教育,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd
+衡水公共频道,http://hls.hsrtv.cn/hls/hstv2.m3u8?zhebd
+衡水公共频道,rtmp://hls.hsrtv.cn/hls/hstv2
+邢台综合频道,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
+鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+赵县电视一套,http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8?zhebd
+昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
+黄骅一套,http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8?zhebd
+黄骅二套,http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8?zhebd
+黄骅影,http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8?zhebd
+黄骅互动,http://hbhh.chinashadt.com:2111/live/hdtv.stream/playlist.m3u8?zhebd
+涿州新闻频道,http://121.18.115.162:8082/live/ch3.m3u8?zhebd
+涿州生活频道,http://121.18.115.162:8082/live/ch4.m3u8?zhebd
+滦平新闻频道,https://live.lpxrmtzx.com/live/wh.m3u8?zhebd
+滦平新闻频道,rtmp://live.lpxrmtzx.com/live/wh?zhebd
+🎈红高粱,#genre#
+【红高粱】第01集,https://50069.njc.svp.tencent-cloud.com/0bf25iaagaaaeuapx7ri7zqvb2wdapvaaaya.f10002.mp4
+【红高粱】第02集,https://50069.njc.svp.tencent-cloud.com/0bf24eaaqaaaheapahji4rqvbyodbdqqacaa.f10002.mp4
+【红高粱】第03集,https://50069.njc.svp.tencent-cloud.com/0bf2buaaoaaa5uap7iri65qvadoda4gqabya.f10002.mp4
+【红高粱】第04集,https://50069.njc.svp.tencent-cloud.com/0bf2ceaaiaaa7eapz5ri75qvaeodaqiqabaa.f10002.mp4
+【红高粱】第05集,https://50069.njc.svp.tencent-cloud.com/0b78zqaaaaaa3aap7uri7jqvbtgdadgaaaaa.f10002.mp4
+【红高粱】第06集,https://50069.njc.svp.tencent-cloud.com/0b78yiaacaaakuaa2ijj5vqvbqwdahbaaaia.f10002.mp4
+【红高粱】第07集,https://50069.njc.svp.tencent-cloud.com/0bf25eaamaaa5aaaptzj65qvb2oda3uqabqa.f10002.mp4
+【红高粱】第08集,https://50069.njc.svp.tencent-cloud.com/0bf2euaaqaaahuaasurj4zqvajodbasqacaa.f10002.mp4
+【红高粱】第09集,https://50069.njc.svp.tencent-cloud.com/0bf2ziaagaaaneaaoprj75qvbswdapfaaaya.f10002.mp4
+【红高粱】第10集,https://50069.njc.svp.tencent-cloud.com/0bf23maaqaaadaabtsjj4zqvbw6dbdnqacaa.f10002.mp4
+【红高粱】第11集,https://50069.njc.svp.tencent-cloud.com/0b783yaaaaaaeeaairjj7fqvbxwdadpaaaaa.f10002.mp4
+【红高粱】第12集,https://50069.njc.svp.tencent-cloud.com/0bf2d4aaiaaatiaa3mjj7bqvah6daqpqabaa.f10002.mp4
+【红高粱】第13集,https://50069.njc.svp.tencent-cloud.com/0b78yaaaaaaauaabalrj7fqvbqgdadaaaaaa.f10002.mp4
+【红高粱】第14集,https://50069.njc.svp.tencent-cloud.com/0bf2ceaasaaatuaaehjj45qvaeodbeiqacia.f10002.mp4
+【红高粱】第15集,https://50069.njc.svp.tencent-cloud.com/0bf274aagaaaaaabdibj7bqvb76dap7qaaya.f10002.mp4
+【红高粱】第16集,https://50069.njc.svp.tencent-cloud.com/0b782aaaaaaaxeabimrj7fqvbugdadiaaaaa.f10002.mp4
+【红高粱】第17集,https://50069.njc.svp.tencent-cloud.com/0b784eaacaaaayajyxrl7bqvbyodahqqaaia.f10002.mp4
+【红高粱】第18集,https://50069.njc.svp.tencent-cloud.com/0bf2rmaa6aaaoqajezbl4jqvbc6db6fqadya.f10002.mp4
+【红高粱】第19集,https://50069.njc.svp.tencent-cloud.com/0bf2iaaawaaajuajkqrl65qvaqgdbnaaacya.f10002.mp4
+【红高粱】第20集,https://50069.njc.svp.tencent-cloud.com/0bf2jiaa2aaakmajgxbl7rqvaswdbvfaadia.f10002.mp4
+【红高粱】第21集,https://50069.njc.svp.tencent-cloud.com/0bf2bqaauaaabeakrnbl6nqvadgdbigaacqa.f10002.mp4
+【红高粱】第22集,https://50069.njc.svp.tencent-cloud.com/0bf2wqaauaaa74ak57bl65qvbngdbk2aacqa.f10002.mp4
+【红高粱】第23集,https://50069.njc.svp.tencent-cloud.com/0bf2e4aawaaageak4nzl65qvaj6dbmtqacya.f10002.mp4
+【红高粱】第24集,https://50069.njc.svp.tencent-cloud.com/0b782yaaeaaadyakjhbl5zqvbvwdallaaaqa.f10002.mp4
+【红高粱】第25集,https://50069.njc.svp.tencent-cloud.com/0bf2cyabkaaa24ale2bl7fqvafwdculaafia.f10002.mp4
+【红高粱】第26集,https://50069.njc.svp.tencent-cloud.com/0bf26uaauaaa5qakhvrl6fqvb5odbl2qacqa.f10002.mp4
+【红高粱】第27集,https://50069.njc.svp.tencent-cloud.com/0bf2vuaauaaatuakbhjl6bqvblodbkwqacqa.f10002.mp4
+【红高粱】第28集,https://50069.njc.svp.tencent-cloud.com/0bf2eiabaaaajaalxuzl7rqvaiwdcaraaeaa.f10002.mp4
+【红高粱】第29集,https://50069.njc.svp.tencent-cloud.com/0bf2lyaawaaaoaakonrl65qvaxwdbnpaacya.f10002.mp4
+【红高粱】第30集,https://50069.njc.svp.tencent-cloud.com/0bf2yaaauaaam4akoyrl6zqvbqgdblaaacqa.f10002.mp4
+【红高粱】第31集,https://50069.njc.svp.tencent-cloud.com/0b78amaaeaaaheak3szl7nqvaa6daibqaaqa.f10002.mp4
+【红高粱】第32集,https://50069.njc.svp.tencent-cloud.com/0bf2d4aawaaau4akixbl6zqvah6dbmpqacya.f10002.mp4
+【红高粱】第33集,https://50069.njc.svp.tencent-cloud.com/0b78puaaeaaa44anjorm7nqva7odaj6qaaqa.f10002.mp4
+【红高粱】第34集,https://50069.njc.svp.tencent-cloud.com/0bf22aabgaaa2eaoiejm7zqvbugdcpiaaeya.f10002.mp4
+【红高粱】第35集,https://50069.njc.svp.tencent-cloud.com/0bf2lyabeaaa6iamjkzm75qvaxwdcjpaaeqa.f10002.mp4
+【红高粱】第36集,https://50069.njc.svp.tencent-cloud.com/0b78mqaaeaaa3eanjerm7nqvazgdajsaaaqa.f10002.mp4
+【红高粱】第37集,https://50069.njc.svp.tencent-cloud.com/0bf2imaa4aaaqqanqfzm6vqvaq6dbzbqadqa.f10002.mp4
+【红高粱】第38集,https://50069.njc.svp.tencent-cloud.com/0b78niaaeaaaraanjzbm7nqva2wdajvaaaqa.f10002.mp4
+【红高粱】第39集,https://50069.njc.svp.tencent-cloud.com/0bf27eaa2aaac4anwhzm6fqvb6odbx4qadia.f10002.mp4
+【红高粱】第40集,https://50069.njc.svp.tencent-cloud.com/0bf2liaa4aaauyanqvjm6nqvawwdbznaadqa.f10002.mp4
+【红高粱】第41集,https://50069.njc.svp.tencent-cloud.com/0bf2zeaa4aaaraaplxbm6nqvbsodb3eqadqa.f10002.mp4
+【红高粱】第42集,https://50069.njc.svp.tencent-cloud.com/0bf2eiabeaaan4ao5srm7vqvaiwdciraaeqa.f10002.mp4
+【红高粱】第43集,https://50069.njc.svp.tencent-cloud.com/0b78kyaaeaaam4ankgzm7nqvavwdajlaaaqa.f10002.mp4
+【红高粱】第44集,https://50069.njc.svp.tencent-cloud.com/0b787eaaeaaaxaankkjm5vqvb6odal4qaaqa.f10002.mp4
+【红高粱】第45集,https://50069.njc.svp.tencent-cloud.com/0bf2jyabgaaadeamjhrm7zqvatwdcnhaaeya.f10002.mp4
+【红高粱】第46集,https://50069.njc.svp.tencent-cloud.com/0bf22mabeaaahqapvijm7zqvbu6dcljqaeqa.f10002.mp4
+【红高粱】第47集,https://50069.njc.svp.tencent-cloud.com/0bf22iaa4aaapyaoj4bm6nqvbuwdb3jaadqa.f10002.mp4
+【红高粱】第48集,https://50069.njc.svp.tencent-cloud.com/0bf2jaabgaaavuaptbbm7zqvasgdcneaaeya.f10002.mp4
+【红高粱】第49集,https://50069.njc.svp.tencent-cloud.com/0bf2baaa6aaarmapd7rm6nqvacgdb4eaadya.f10002.mp4
+【红高粱】第50集,https://50069.njc.svp.tencent-cloud.com/0bf2xuabeaaatuaptvjm75qvbpodck6qaeqa.f10002.mp4
+【红高粱】第51集,https://50069.njc.svp.tencent-cloud.com/0b78kmaagaaa5aapanrm5zqvau6danjqaaya.f10002.mp4
+【红高粱】第52集,https://50069.njc.svp.tencent-cloud.com/0b78iuaaeaaazuapoljm7nqvarodajcqaaqa.f10002.mp4
+【红高粱】第53集,https://50069.njc.svp.tencent-cloud.com/0bf2amaa6aaaeqaa6pzn6nqvaa6db4bqadya.f10002.mp4
+【红高粱】第54集,https://50069.njc.svp.tencent-cloud.com/0b78umaagaaarqab44bn55qvbi6daorqaaya.f10002.mp4
+【红高粱】第55集,https://50069.njc.svp.tencent-cloud.com/0bf26yaa4aaa6yabavrn65qvb5wdb33aadqa.f10002.mp4
+【红高粱】第56集,https://50069.njc.svp.tencent-cloud.com/0bf2uyaa4aaadiabb6rn6vqvbjwdb2taadqa.f10002.mp4
+【红高粱】第57集,https://50069.njc.svp.tencent-cloud.com/0b78p4aaeaaacaacecrn7bqva76daj7qaaqa.f10002.mp4
+【红高粱】第58集,https://50069.njc.svp.tencent-cloud.com/0bf2riaa4aaaliac4zzn6jqvbcwdb2faadqa.f10002.mp4
+【红高粱】第59集,https://50069.njc.svp.tencent-cloud.com/0bf2g4abeaaauaadcobn4jqvan6dci3qaeqa.f10002.mp4
+【红高粱】第60集,https://50069.njc.svp.tencent-cloud.com/0bf27uabeaaa64adn6bn75qvb7odcl6qaeqa.f10002.mp4
