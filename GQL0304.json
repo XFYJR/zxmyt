@@ -84,7 +84,7 @@
 {"key":"csp_Bili合集","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/bilibili.json"},
 {"key": "csp_xbpq_子子影视","name": "子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./getjson/子子影视.json"},
 {"key": "csp_bendi","name": "🅿本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1},
-{"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"playerType": 1,"ext":"./jar/alitoken.txt"}],
+{"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"playerType": 1,"ext":"./alitoken.txt"}],
 "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
