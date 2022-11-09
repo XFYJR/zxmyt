@@ -4,7 +4,7 @@
 "drives": [{"server":"","userName":"","password":"","type":"webdav"}],
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 "sites": [
-{"key": "T4_douban","name": "豆瓣荐片","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "T4_douban","name": "豆瓣荐片","type": 4,"api": "https://www.doubanapi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_B站","name": "👨‍👩‍👦‍👦曲苑杂坛(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./getjson/qunyinghui.json"},
 {"key":"csp_MGTV","name":"芒果┃官采","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"playerType": 1},
 {"key":"csp_77","name":"🌈酷云七七(优)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
