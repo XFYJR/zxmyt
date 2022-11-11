@@ -1,5 +1,5 @@
 {
-"spider":"./jar/spider.jar",
+"spider":"./jar/spider.jar;md5;5724b167958a4e46ce04b226149f39d5",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWEZZSlIvenhteXQvbWFpbi9saXZlLnR4dA=="]}]}],
 "drives": [{"server":"","userName":"","password":"","type":"webdav"}],
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
