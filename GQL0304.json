@@ -4,7 +4,7 @@
 "drives": [{"server":"","userName":"","password":"","type":"webdav"}],
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 "sites": [
-{"key":"YQK_spider","name":"☄️一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"csp_Alist","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"./getjson/alist.json"},
 {"key": "csp_XYQ_lu1","name": "️🖥️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./getjson/ningmeng.json"},
 {"key": "csp_B站","name": "👨‍👩‍👦‍👦曲苑杂坛(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./getjson/qunyinghui.json"},
 {"key":"csp_MGTV","name":"芒果┃官采","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"playerType": 1},
